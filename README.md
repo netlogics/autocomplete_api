@@ -1,5 +1,4 @@
 # Autocompleter
-----
 
 ## Install & Run
 1. `git clone https://github.com/netlogics/autocomplete_api.git`
